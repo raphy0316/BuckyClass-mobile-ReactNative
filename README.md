@@ -4,6 +4,7 @@ Grow는 수강 정보, 실시간 채팅, 강의 리뷰 기능을 제공하는 **
 React Native 기반의 모바일 앱으로, Firebase Realtime Database와 PostgreSQL 백엔드 API를 연동하여 실시간성과 데이터 신뢰성을 모두 갖췄습니다.
 
 <br/>
+![image](https://github.com/user-attachments/assets/09ab95ed-7bff-4f7b-bc52-00888cf99f39)
 
 ## 🛠️ 주요 기술 스택
 
