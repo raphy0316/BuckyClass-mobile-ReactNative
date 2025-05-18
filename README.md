@@ -30,5 +30,17 @@ React Native 기반의 모바일 앱으로, Firebase Realtime Database와 Postgr
 
 <br/>
 
-## 📁 프로젝트 구조
+## 🔐 인증 흐름
+
+- Firebase Auth 기반 이메일 로그인
+- 로그인 성공 시 토큰을 `AsyncStorage`에 저장
+- 이후 Axios 요청 시 백엔드 API에 토큰 포함
+
+<br/>
+
+## 🚀 실행 방법
+
+```bash
+npm install
+npx expo start
 
