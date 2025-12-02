@@ -4,7 +4,7 @@ An education-focused mobile app built with React Native and Expo. It provides co
 
 ## Related Links
 
-[Backend](https://github.com/raphy0316/BuckyClass-general-api) · [Portfolio](https://www.notion.so/Grow-27dd0b7951b6804a8a4cf7cb0f7489d1?source=copy_link)
+[Backend](https://github.com/raphy0316/BuckyClass-general-api)
 
 
 ## Features
