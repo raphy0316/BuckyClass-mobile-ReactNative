@@ -2,6 +2,9 @@
 
 An education-focused mobile app built with React Native and Expo. It provides course discovery, course detail analytics (grade distribution, instructors, sections), real-time course group chats and 1:1 private chats via Firebase Realtime Database, user authentication with Firebase, and review submission to a backend API.
 
+[Backend](https://github.com/raphy0316/BuckyClass-general-api) · [Notion](https://www.notion.so/Grow-27dd0b7951b6804a8a4cf7cb0f7489d1?source=copy_link)
+
+
 ## Features
 
 - Authentication (Firebase Email/Password)
